@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **emailtosachinpatil@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/m2sachinpatil](https://github.com/m2sachinpatil)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sachinp9/](https://www.linkedin.com/in/sachinp9/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
