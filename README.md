@@ -41,5 +41,6 @@
 
 <h3 align="left">My .NET Backend Developer Roadmap for 2022:</h3>
 
-![image](https://user-images.githubusercontent.com/51775632/186729186-3e58ebff-72c1-4a99-bf49-f4a7fe06c550.png)
+![11](https://user-images.githubusercontent.com/51775632/186731373-fc9d0e27-1563-40a4-be57-bbf7caa64b39.png)
+
 
