@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senior Software Engineer from India located at Auckland, New Zealand</h1>
-<h3 align="center">Lead Software Engineer | AI-ML | Kubernetes Certified | MongoDB Certified | MicroServices | Azure Certified | Agile Enthusiast</h3>
+<h3 align="center">Lead Software Engineer | Microsoft .Net | AI-ML | Kubernetes Certified | MongoDB Certified | MicroServices | Azure Certified | Agile Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m2sachinpatil&label=Profile%20views&color=0e75b6&style=flat" alt="m2sachinpatil" /> </p>
 
