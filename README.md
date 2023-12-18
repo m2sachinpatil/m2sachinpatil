@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Senior Software Engineer from India located at Cayman Island(UK territory)</h1>
-<h3 align="center">Lead Software Engineer | Kubernetes Certified | MongoDB Certified | MicroServices | Azure Certified | Agile Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Senior Software Engineer from India located at Auckland, New Zealand</h1>
+<h3 align="center">Lead Software Engineer | AI-ML | Kubernetes Certified | MongoDB Certified | MicroServices | Azure Certified | Agile Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m2sachinpatil&label=Profile%20views&color=0e75b6&style=flat" alt="m2sachinpatil" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cloud Med**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Microservices**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C# and Kubernetes**
 
-- 📫 How to reach me **emailtosachinpatil@gmail.com**
+- 📫 How to reach me **m2sachinpatil@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sachinp9/](https://www.linkedin.com/in/sachinp9/)
 
